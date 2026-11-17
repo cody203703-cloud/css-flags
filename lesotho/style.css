@@ -8,26 +8,29 @@ a {
     text-align:center;
 }
 .flag {
-  width:375px;
-  height:240px;
+  width:750px;
+  height:500px;
   margin:auto;
   border:1px solid black;
 }
 
 .stripe {
-    width:375px;
-    height:75px;
-    
+    width:100%;
+    height:30%;    
 }
 
+.stripe.white {
+    height:40%;
+    text-align:center;
+}
 .blue {
     background:#263181;
    
 }
 #big {
      background:white;
-     width:375px;
-     height:100;px
+     width:100%;
+     height:200px;
      
 }
 .white {
@@ -38,8 +41,6 @@ a {
     background:#019D5C;
    
 }
-.img {
-    width:92px;
-    height:92px;
-    margin:auto
+img {
+    height:100%;
 }
